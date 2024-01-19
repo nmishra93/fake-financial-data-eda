@@ -1,3 +1,6 @@
+source("R/00_libraries.R")
+source("R/01_functions.R")
+
 # User inputs
 num_companies_input <- 12
 start_date_input <- "2022-01-01"

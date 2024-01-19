@@ -1,3 +1,5 @@
+source("R/00_libraries.R")
+
 # Set a seed for reproducibility
 set.seed(42)
 
