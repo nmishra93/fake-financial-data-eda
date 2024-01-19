@@ -23,11 +23,11 @@ tidy_stock_data |>
     x = NULL,
     y = "Price (INR)"
   ) +
-  facet_wrap(~Symbol, ncol = 3, scales = "free_y")
+  facet_wrap(~Symbol, ncol = 4, scales = "free_y")
 
 ggsave(
   "price_movement.png",
   path = "img",
-  width = 12,
-  height = 6
+  width = 14,
+  height = 8
 )
