@@ -1,0 +1,1 @@
+A showcase project to show data science skills with a particular emphasis on exploratory data analysis. The project involves randomly generating stock market data for 20 stocks and then using the data to create a portfolio. The portfolio will then be optimized using the Sharpe Ratio and Monte Carlo simulations. The project is written in R.
